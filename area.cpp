@@ -3,7 +3,7 @@
 #include <iomanip.h>
 
 void main ()
- {
+{
   float area, circum, rad;
   clrscr ();
   cout<<"enter the radius of the circle:";
@@ -13,4 +13,4 @@ void main ()
   cout<<"area of the circle="<<area<<endl;
   cout<<"circumference="<<circum<<endl;
   getch ();
- }
+}
